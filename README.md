@@ -47,10 +47,10 @@ BLOG-POST-LIST:END -->
 
 
 <!--[![linkedin badge](https://img.shields.io/badge/Anupam_Haldkar-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/anupam-haldkar-a54777131/)
-[![twitter badge](https://img.shields.io/badge/@AnupamHaldkar-30302f?style=flat&logo=twitter)](https://twitter.com/AnupamHaldkar)
+[![twitter badge](https://img.shields.io/badge/@AnupamHaldkar-30302f?style=flat&logo=twitter)](https://twitter.com/adars)
 [![medium badge](https://img.shields.io/badge/AHDEV2020-30302f?style=flat&logo=medium)](https://medium.com/@ahdev2020)-->
 
- <h3 align="center"><a href="https://www.buymeacoffee.com/anupamh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Pizza🍕" style="height: 60px !important;width: 217px !important;" ></a></h3>
+
 
 
 
@@ -86,17 +86,13 @@ BLOG-POST-LIST:END -->
 ## 📊 My Github Stats
 
 <br>
-
-   
-
-
   <br>
     <a href="https://github.com/adarshsable/github-readme-stats"><img alt="Adarsh Sable's Github Stats" src="https://github-readme-stats.vercel.app/api?username=adarshsable&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
      <a href="https://github.com/adarshsable/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Adarsh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=adarshsable&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
     <p align="center">
-  <a href="https://github.com/adarshsable/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshsable&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/adarshsable/github-readme-stats"><img alt="Adarsh Sable's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshsable&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   </p>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -116,7 +112,7 @@ BLOG-POST-LIST:END -->
 
 <h3 align="center"><img  src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
   </h3>
-  <h3 align="center"> <em>  <b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em></h3>
+  <h3 align="center"> <em>  <b>I love connecting with different people</b> so if you want to say <b>Hi, I'll be happy to meet you more!</b> :)</em></h3>
 
 <span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;</span>
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adarshsable03/)<span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  </span>
@@ -127,7 +123,7 @@ BLOG-POST-LIST:END -->
 <br>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/adarshsable/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=adarshsable">
 </a>
 <a href="https://github.com/adarshsable?tab=followers"><img src="https://img.shields.io/github/followers/adarshsable?label=Followers&style=social" alt="GitHub Badge"></a>
